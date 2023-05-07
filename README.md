@@ -1,6 +1,8 @@
 # Codecademy - Full Stack Engineer Path - Off-Platform Project: Fotomatic
 fixed a broken version of a responsive website called Fotomatic
 
+![image](https://github.com/cfchan0318/codecademy_fotomatic/blob/master/fotomatic.png)
+
 ##Skills used in this project
 
 ###HTML
